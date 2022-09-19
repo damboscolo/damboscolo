@@ -1,6 +1,6 @@
 ## Olá, I'm Daniele <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/>
 
-I am a Brazilian girl who has been coding since I was 15, I have 8 years working professionally as a programmer.
+I am a Brazilian who has been programming since I was 15 years old. I have 8 years working professionally as a programmer.
 
 - 🔭 I’m currently working on Rappi as Backend Engineer
 - 👩‍💻 The languages I worked on the most are Kotlin, Elixir and Swift
