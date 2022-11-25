@@ -12,8 +12,8 @@ I am a Brazilian who has been programming since I was 15 years old. I have 8 yea
 <h3 align="center">Where to find me 📫</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/danieleboscolo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/damboscolo"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdamboscolo&logo=leetcode&logoColor=yellow" height="40"></a>&nbsp;&nbsp;&nbsp;
-</p>
+<!--   <a href="https://leetcode.com/damboscolo"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdamboscolo&logo=leetcode&logoColor=yellow" height="40"></a>&nbsp;&nbsp;&nbsp;
+</p> -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
 
 <p align="center">
